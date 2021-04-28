@@ -54,9 +54,6 @@
 @attribute char_freq_! numeric
 @attribute char_freq_$ numeric
 @attribute char_freq_# numeric
-@attribute capital_run_length_average numeric
-@attribute capital_run_length_longest numeric
-@attribute capital_run_length_total numeric
 @attribute is_spam {0,1}
 
 @data
